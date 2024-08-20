@@ -7,9 +7,9 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- Creates and displays your custom achievement
 Achievements.Get({
-    Title = "Fucking nigger",
+    Title = "dumbass",
     Desc = "told u to not hax here stupid head",
-    Reason = '... fat nigger ...',
+    Reason = 'script made by Icherrykardez',
     Image = "https://tr.rbxcdn.com/e97b809a33e25c3ca823b224b3f981b9/420/420/Image/Png",
 })
 
